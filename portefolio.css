@@ -1,0 +1,21 @@
+.navbar{
+    background-color: gray;
+}
+.foot{
+    background-color: gray;
+    padding: 15px;
+}
+form{
+    background-color: whitesmoke;
+    border:  solid gray 2px;
+}
+.btn{
+    margin: 5px;
+}
+main{
+    background-color: rgb(190, 188, 188);
+}
+.fin{
+    text-align: center;
+    color: white;
+}
